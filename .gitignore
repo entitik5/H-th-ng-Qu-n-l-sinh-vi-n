@@ -1,0 +1,15 @@
+
+bin/
+*.class
+
+db.properties
+
+# VS Code
+.vscode/
+
+.idea/
+
+.DS_Store
+Thumbs.db
+
+*.log
