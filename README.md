@@ -12,3 +12,11 @@ Java (JDK 8+)
 Java Swing (UI)
 MySQL
 JDBC
+
+Import file `database/qlsv.sql` trước khi chạy
+Run `LoginFrame.java` để start
+
+Tài khoản test:
+- Vai trò admin:
+- username: admin
+- password: admin321
